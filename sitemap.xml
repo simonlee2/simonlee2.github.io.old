@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://simonlee.dev/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/posts/2017-04-28---docker-node/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/posts/2017-04-28---snapchat-instagram/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/posts/2019-05-13---Developer-Experience-at-F8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/posts/accelerate-your-team-with-continuous-delivery</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/posts/2019-06-17---guide-to-wwdc19-sessions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/tag/f-8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/tag/wwdc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/category/engineering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/category/reading</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/category/wwdc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/category/web</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://simonlee.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
